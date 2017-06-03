@@ -1,0 +1,31 @@
+title --
+
+decription -
+
+
+Feature -
+- Control the plane with finger Tap & Hold/Release Screen.
+- Cloud & Snow close-up on increase in score. 
+- Normal and Fast game Speed & Missiles.
+- Compete with your friends by sharing your best Score.
+
+Other Features -
+- No in-app purchases & It is Completely FREE of Cost.
+- Share Button to Share with Facebook, Twitter, Gmail, Bluetooth & with many others apps.
+- Rate Button to rate directly on Google Play Store.
+- Spacebolt game is enabled with sound. 
+- No Internet connection required (Available offline).
+- Available for both Mobile and Tablet devices.
+- Works on almost all android devices above API level 9 or GINGERBREAD android platform.
+- Has only banners ads.
+
+How to play:
+- Tap & hold the screen to charge up
+- Release the finger to glide down.
+- Avoid the high speed jet missiles and obstacles coming on your way.
+- Reach high score
+- Share your high score & Beat your friends
+
+  
+
+Also Do not forget to rate/review the game and Share your Feedback on Google Play Store for improvement.
